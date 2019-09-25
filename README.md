@@ -2,11 +2,17 @@
 
 ## Data
 
-The data I propose to visualize for my project is ...
+The data I propose to visualize for my project is [Life Expectancy Data](https://gist.github.com/aishwarya8615/89d9f36fc014dea62487f7347864d16a).  
+The Global Health Observatory (GHO) data repository under World Health Organization (WHO) keeps track of the health status as well as many other related factors for all countries. The data-sets are made available to public for the purpose of health data analysis. This data-set related to life expectancy, health factors for 193 countries has been collected from the same WHO data repository website and its corresponding economic data was collected from United Nation website.
+Although there have been lot of studies undertaken in the past on factors affecting life expectancy considering demographic variables, income composition and mortality rates. It was found that affect of immunization and human development index was not taken into account in the past. Important immunization like Hepatitis B, Polio and Diphtheria will also be considered for the analysis In a nutshell, this study will focus on immunization factors, mortality factors, economic factors, social factors and other health related factors as well. Since the observations of this dataset are based on different countries, it will be easier for a country to determine the predicting factor which is contributing to lower value of life expectancy. This will help in suggesting a country which area should be given importance in order to efficiently improve the life expectancy of its population.
+
 
 ## Prototypes
 
-I’ve created a proof of concept visualization of this data. It's a ... and it shows ...
+I’ve created a proof of concept visualizations of this data. They comprise of a series of scatterplots with various input parameters like “Year”, “Diphtheria Vaccination”, “BMI” ,”Schooling” versus the Life expectancy of various continents. I have also created line charts for GDP vs Life Expectancy and it shows that the Life Expectancy in the continent of Europe is higher for all the input parameters considered when compared to  other continents. As this data is over a span of 15 years we can say that Europe is following the right path of educating its people and providing vaccination facilities. 
+
+Please find below a few of the visualizations:
+
 
 [![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://beta.vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
 
@@ -16,10 +22,10 @@ I’ve created a proof of concept visualization of this data. It's a ... and it 
 
 The following tasks and questions will drive the visualization and interaction decisions for this project:
 
- * (insert your question or task here) How does the X vary over time?
- * (insert your question or task here) Is there any correlation between X and Y?
- * (insert your question or task here) Are there interesting spatial patterns in X?
- * (insert your question or task here) How many X are there across different Y?
+ * How does Infant and Adult mortality rates affect life expectancy
+ * Does Life Expectancy have positive or negative relationship with drinking alcohol?
+ * Do densely populated countries tend to have lower life expectancy? 
+ * Is there any correlation between Life expectancy and healthcare expenditure? Should a country/continent having a lower life expectancy value(<65) increase its healthcare expenditure in order to improve its average lifespan? 
 
 ## Sketches
 
@@ -28,4 +34,5 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Open Questions
 
-(describe any fear, uncertainty, or doubt you’re having about the feasibility of implementing the sketched system. For example, “I’m not sure where to get the geographic shapes to build a map from this data” or “I don’t know how to resolve the codes to meaningful names” … Feel free to delete this section if you’re confident.)
+I noticed a dip in the data at lower BMI and Diphtheria vaccination administration which makes me wonder the reason for this behaviour. Would there be other input parameters with such a behavior? Does it mean that the data is incorrect?
+
