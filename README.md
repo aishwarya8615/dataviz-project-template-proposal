@@ -16,6 +16,9 @@ Please find below a few of the visualizations:
 
 [![image](https://user-images.githubusercontent.com/54454914/65568969-a23bec00-df29-11e9-91d4-43f46d856ff9.png)](https://beta.vizhub.com/aishwarya8615/e92690e07721405ba299193059e66318)
 
+[![image](https://user-images.githubusercontent.com/54454914/65569060-1ffff780-df2a-11e9-9fc9-499f73077c46.png)](https://beta.vizhub.com/aishwarya8615/3ee089b6e0194edba2dc1f7f0e04d62f)
+
+
 
 
 ## Questions & Tasks
