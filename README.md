@@ -23,6 +23,7 @@ Please find below a few of the visualizations:
 [![image](https://user-images.githubusercontent.com/54454914/65569193-ae747900-df2a-11e9-86a3-d9803ed3a750.png)
 ](https://beta.vizhub.com/aishwarya8615/8ddcb121338441d89bc292b6fed31c68)
 
+[![image](https://user-images.githubusercontent.com/54454914/65569243-dcf25400-df2a-11e9-845b-ca85085f541c.png)](https://beta.vizhub.com/aishwarya8615/e961019bd2244b8595c38b4cb0c47ceb)
 
 
 ## Questions & Tasks
