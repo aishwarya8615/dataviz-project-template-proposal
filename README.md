@@ -41,7 +41,7 @@ Find below a few sketches of the visualizations I would like to work on for this
 
 ![image](https://user-images.githubusercontent.com/54454914/65569319-2347b300-df2b-11e9-9d86-0f2fe75cda81.png)
 
-
+![image](https://user-images.githubusercontent.com/54454914/65569396-7883c480-df2b-11e9-9da7-f4fb1f76adec.png)
 
 
 ## Open Questions
