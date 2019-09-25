@@ -20,7 +20,8 @@ Please find below a few of the visualizations:
 
 [![image](https://user-images.githubusercontent.com/54454914/65569113-563d7700-df2a-11e9-8d8b-40a164b0f88a.png)](https://beta.vizhub.com/aishwarya8615/e064112e923b4934a7acf25e8e987851)
 
-
+[![image](https://user-images.githubusercontent.com/54454914/65569193-ae747900-df2a-11e9-86a3-d9803ed3a750.png)
+](https://beta.vizhub.com/aishwarya8615/8ddcb121338441d89bc292b6fed31c68)
 
 
 
