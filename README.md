@@ -14,9 +14,9 @@ I’ve created a proof of concept visualizations of this data. They comprise of 
 Please find below a few of the visualizations:
 
 
-[![image](https://user-images.githubusercontent.com/68416/65240758-9ef6c980-daff-11e9-9ffa-e35fc62683d2.png)](https://beta.vizhub.com/curran/eab039ad1765433cb51aad167d9deae4)
+[![image](https://user-images.githubusercontent.com/54454914/65568969-a23bec00-df29-11e9-91d4-43f46d856ff9.png)](https://beta.vizhub.com/aishwarya8615/e92690e07721405ba299193059e66318)
 
-(please put a screenshot of one or more visualizations of this dataset you already made, for previous assignments)
+
 
 ## Questions & Tasks
 
