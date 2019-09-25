@@ -37,8 +37,12 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-(insert one or more hand-drawn sketches of interactive visualizations that you imagine)
-(describe each sketch - how is the data visualized, what are the interactions, and how do these relate to the questions/tasks)
+Find below a few sketches of the visualizations I would like to work on for this data.
+
+![image](https://user-images.githubusercontent.com/54454914/65569319-2347b300-df2b-11e9-9d86-0f2fe75cda81.png)
+
+
+
 
 ## Open Questions
 
