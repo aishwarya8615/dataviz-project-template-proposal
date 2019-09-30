@@ -48,3 +48,6 @@ Find below a few sketches of the visualizations I would like to work on for this
 
 I noticed a dip in the data at lower BMI and Diphtheria vaccination administration which makes me wonder the reason for this behaviour. Would there be other input parameters with such a behavior? Does it mean that the data is incorrect?
 
+## Schedule of Deliverables
+
+
