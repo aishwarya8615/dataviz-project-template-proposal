@@ -9,7 +9,7 @@ Although there have been lot of studies undertaken in the past on factors affect
 
 ## Prototypes
 
-I’ve created a proof of concept visualizations of this data. They comprise of a series of scatterplots with various input parameters like “Year”, “Diphtheria Vaccination”, “BMI” ,”Schooling” versus the Life expectancy of various continents. I have also created line charts for GDP vs Life Expectancy and it shows that the Life Expectancy in the continent of Europe is higher for all the input parameters considered when compared to  other continents. As this data is over a span of 15 years we can say that Europe is following the right path of educating its people and providing vaccination facilities. 
+I’ve created proof of concept visualizations of this data. They comprise of a series of scatterplots with various input parameters like “Year”, “Diphtheria Vaccination”, “BMI” ,”Schooling” versus the Life expectancy of various continents. I have also created line charts for GDP vs Life Expectancy and all these plots and charts shows that the Life Expectancy in the continent of Europe is higher for all the input parameters considered when compared to  other continents. As this data is over a span of 15 years we can say that Europe is following the right path of educating its people and providing vaccination facilities. 
 
 Please find below a few of the visualizations:
 
