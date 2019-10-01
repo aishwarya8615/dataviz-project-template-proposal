@@ -46,8 +46,19 @@ Find below a few sketches of the visualizations I would like to work on for this
 
 ## Open Questions
 
-I noticed a dip in the data at lower BMI and Diphtheria vaccination administration which makes me wonder the reason for this behaviour. Would there be other input parameters with such a behavior? Does it mean that the data is incorrect?
+- I noticed a dip in the data at lower BMI and Diphtheria vaccination administration which makes me wonder the reason for this behaviour. Would there be other input parameters with such a behavior? Does it mean that the data is incorrect?
+- Area Plot appears differently with the mortatlity rates and life expectancy.Need to figure out the reason
 
 ## Schedule of Deliverables
-
-
+* Scatter Plot with Color Menu for Life Expectancy Data  - Due Date :  10/02/2019
+    - The dropdown menu helps in choosing multiple input options and helps finding their correlation with each other.
+* Scatter Plot depicting Life expectancy and Healthcare expenditure for different continents  -  Due Date: 10/09/2019
+    - This scatter plot would help in finding the correlation between life expectancy and healthcare expenditure inturn helping countries to improve the life span.
+* Bar chart/Scatter Plot of Life Expectancy Vs Alcohol Consumption    - Due Date: 10/16/2019
+    - The positive/negative relationship of Alcohol consumption to life expectancy is determined.
+* Bivariate Choropleth map with interactive filtering  - Due Date: 10/23/2019
+    - This interactive map helps in analyzing whether the densely populated countries have lower life expectancy or not.
+    - Color coding denotes the different populated areas(dense has darker shades than less dense).Would want to be able to select the         country on mouse click.
+    - Mouse hover displays country name, population and life expectancy.
+ * Interactive Area/Line Chart of Infant and Adult mortality Vs Life Expectancy over 15 years. -  Due Date: 10/30/2019
+     - Interactive chart highlighting the input category on mouse hover.
