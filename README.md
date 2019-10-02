@@ -61,4 +61,4 @@ Find below a few sketches of the visualizations I would like to work on for this
     - Color coding denotes the different populated areas(dense has darker shades than less dense).Would want to be able to select the         country on mouse click.
     - Mouse hover displays country name, population and life expectancy.
  * Interactive Area/Line Chart of Infant and Adult mortality Vs Life Expectancy over 15 years. -  Due Date: 10/30/2019
-     - Interactive chart highlighting the input category on mouse hover.
+     - Interactive chart, highlighting the input category on mouse hover.
