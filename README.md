@@ -2,14 +2,14 @@
 
 ## Data
 
-The data I propose to visualize for my project is [Life Expectancy Data](https://gist.github.com/aishwarya8615/89d9f36fc014dea62487f7347864d16a).  
+The data I used to visualize for my project is [Life Expectancy Data](https://gist.github.com/aishwarya8615/89d9f36fc014dea62487f7347864d16a).  
 The Global Health Observatory (GHO) data repository under World Health Organization (WHO) keeps track of the health status as well as many other related factors for all countries. The data-sets are made available to public for the purpose of health data analysis. This data-set related to life expectancy, health factors for 193 countries has been collected from the same WHO data repository website and its corresponding economic data was collected from United Nation website.
-Although there have been lot of studies undertaken in the past on factors affecting life expectancy considering demographic variables, income composition and mortality rates. It was found that affect of immunization and human development index was not taken into account in the past. Important immunization like Hepatitis B, Polio and Diphtheria will also be considered for the analysis In a nutshell, this study will focus on immunization factors, mortality factors, economic factors, social factors and other health related factors as well. Since the observations of this dataset are based on different countries, it will be easier for a country to determine the predicting factor which is contributing to lower value of life expectancy. This will help in suggesting a country, which area should be given importance in order to efficiently improve the life expectancy of its population.
+Although there have been lot of studies undertaken in the past on factors affecting life expectancy considering demographic variables, income composition and mortality rates. It was found that affect of immunization and human development index was not taken into account in the past. Important immunization like Hepatitis B, Polio and Diphtheria will also be considered for the analysis In a nutshell, this study will focus on immunization factors, mortality factors, economic factors, social factors and other health related factors as well. Since the observations of this dataset are based on different countries and continents, it will be easier for a country to determine the predicting factor which is contributing to lower value of life expectancy. This will help in suggesting a country/continent, which area should be given importance in order to efficiently improve the life expectancy of its population.
 
 
 ## Prototypes
 
-I’ve created proof of concept visualizations of this data. They comprise of a series of scatterplots with various input parameters like “Year”, “Diphtheria Vaccination”, “BMI” ,”Schooling” versus the Life expectancy of various continents. I have also created line charts for GDP vs Life Expectancy and all these plots and charts shows that the Life Expectancy in the continent of Europe is higher for all the input parameters considered when compared to  other continents. As this data is over a span of 15 years, we can say that Europe is following the right path of educating its people and providing vaccination facilities. 
+I created proof of concept visualizations of this data. They comprise of a series of scatterplots with various input parameters like “Year”, “Diphtheria Vaccination”, “BMI” ,”Schooling” versus the Life expectancy of various continents. I have also created line charts for GDP vs Life Expectancy and all these plots and charts shows that the Life Expectancy in the continent of Europe is higher for all the input parameters considered when compared to  other continents. As this data is over a span of 15 years, we can say that Europe is following the right path of educating its people and providing vaccination facilities. 
 
 Please find below a few of the visualizations:
 
@@ -28,7 +28,7 @@ Please find below a few of the visualizations:
 
 ## Questions & Tasks
 
-The following tasks and questions will drive the visualization and interaction decisions for this project:
+The following tasks and questions were used to drive the visualization and interaction decisions for this project:
 
  * How does Infant and Adult mortality rates affect life expectancy
  * Does Life Expectancy have positive or negative relationship with drinking alcohol?
@@ -37,7 +37,7 @@ The following tasks and questions will drive the visualization and interaction d
 
 ## Sketches
 
-Find below a few sketches of the visualizations I would like to work on for this data.
+Find below a few sketches of the visualizations I created to work on for this data.
 
 ![image](https://user-images.githubusercontent.com/54454914/65569319-2347b300-df2b-11e9-9d86-0f2fe75cda81.png)
 
