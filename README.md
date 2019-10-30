@@ -52,15 +52,15 @@ These data helped me in creating my final visualizations.
 My final project comprises of the following visualizations:
 
 * Visualization #1:
-![image](https://user-images.githubusercontent.com/54454914/67837333-323ef980-fac5-11e9-9763-4b3fb755c6c4.png)(https://beta.vizhub.com/aishwarya8615/9280287ff4d34683bfbf444502255067)
+[![image](https://user-images.githubusercontent.com/54454914/67837333-323ef980-fac5-11e9-9763-4b3fb755c6c4.png)](https://beta.vizhub.com/aishwarya8615/9280287ff4d34683bfbf444502255067)
 My first step was to combine the above prototypes into a single visualization. For this, I used dropdown menu's that helps us to choose the required field's and updated the scatter plots accordingly.There is an additional menu dropdown for choosing color legend. 
 
 * Visualization #2:
-![image](https://user-images.githubusercontent.com/54454914/67836699-ae384200-fac3-11e9-9745-399523af7450.png)(https://beta.vizhub.com/aishwarya8615/879dc1e7f9e4408fb551c7a9b91f0f9b)
+[![image](https://user-images.githubusercontent.com/54454914/67836699-ae384200-fac3-11e9-9745-399523af7450.png)](https://beta.vizhub.com/aishwarya8615/879dc1e7f9e4408fb551c7a9b91f0f9b)
 This bar chart takes required inputs from the data(like Alcohol Consumption, Life Expectancy and Year) and uses these as inputs to both X and Y axes with the help of an Interactive Color Legend using 'Year' as input. Here, aggregate of Alcohol Consumption is considered in X Axis and Life Expectancy in Y Axis. This scatter plot would help in determining the relationship between Alcohol Consumption and Life Expectancy in various continents. The tooltip provides a summary about the above mentioned correlation with respect to the year.
 
 * Visualization #3:
-![image](https://user-images.githubusercontent.com/54454914/67837782-39b2d280-fac6-11e9-9a22-4f2cb76fea25.png)(https://beta.vizhub.com/aishwarya8615/80dd883f626a4f9ca7a1c7778f17dde9)
+[![image](https://user-images.githubusercontent.com/54454914/67837782-39b2d280-fac6-11e9-9a22-4f2cb76fea25.png)](https://beta.vizhub.com/aishwarya8615/80dd883f626a4f9ca7a1c7778f17dde9)
 As an enhancement to Visualization #1, I implemented the interactive color legend and updated the scatterplot eith informative tooltips.This scatter plot would help in finding the correlation between these various inputs using Continent as the color legend. Clicking on th color legend would display the data relevant to that continent. Hovering over the data would display all necessary information to summarize the visualized data in the form of Continent,Year, and the X and Y Axes values. 
 
 ## Schedule of Deliverables
@@ -84,10 +84,10 @@ As an enhancement to Visualization #1, I implemented the interactive color legen
  
  ## Visualization Tools & Platform
  
- *Vega Lite API
+ * Vega Lite API
  * D3
- *React
- *All coding was done on VizHub
+ * React
+ * All coding was done on VizHub
  
  ## References
  
