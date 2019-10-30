@@ -20,40 +20,43 @@ After analysing the data, I came up with the following tasks and questions which
 ## Sketches
 
 The above tasks helped me to come up with a few sketches that assisted me in making the final visualizations.
+Sketch 1:
 
 ![image](https://user-images.githubusercontent.com/54454914/65569319-2347b300-df2b-11e9-9d86-0f2fe75cda81.png)
+
+Sketch 2:
 
 ![image](https://user-images.githubusercontent.com/54454914/65569396-7883c480-df2b-11e9-9da7-f4fb1f76adec.png)
 
 ## Prototypes
 
 Over the course of my class, I created many prototype visualizations exploring this data. 
-Initially they comprised of a series of scatterplots with various input parameters like “Year”, “Diphtheria Vaccination”, “BMI” ,”Schooling” and so on versus the Life expectancy of various continents which gave a flavour of the correlation of each parameter. I have also created line charts for GDP vs Life Expectancy and all these plots and charts shows that the Life Expectancy in the continent of Europe is higher for all the input parameters considered when compared to  other continents. As this data is over a span of 15 years, we can say that Europe is following the right path of educating its people and providing vaccination facilities. 
+Initially, they comprised of a series of scatterplots and line chart with various input parameters like “Year”, “Diphtheria Vaccination” ,”Schooling” and so on versus the Life expectancy of various continents which gave a flavour of the correlation of each parameter. 
 
 Please find below a few of the visualizations:
 
 
 [![image](https://user-images.githubusercontent.com/54454914/65568969-a23bec00-df29-11e9-91d4-43f46d856ff9.png)](https://beta.vizhub.com/aishwarya8615/e92690e07721405ba299193059e66318)
+The above scatter plot can be used to understand Life expectancy over the span of 15 years and they are color coded for each continent.
 
 [![image](https://user-images.githubusercontent.com/54454914/65569060-1ffff780-df2a-11e9-9fc9-499f73077c46.png)](https://beta.vizhub.com/aishwarya8615/3ee089b6e0194edba2dc1f7f0e04d62f)
-
-[![image](https://user-images.githubusercontent.com/54454914/65569113-563d7700-df2a-11e9-8d8b-40a164b0f88a.png)](https://beta.vizhub.com/aishwarya8615/e064112e923b4934a7acf25e8e987851)
-
-[![image](https://user-images.githubusercontent.com/54454914/65569193-ae747900-df2a-11e9-86a3-d9803ed3a750.png)
-](https://beta.vizhub.com/aishwarya8615/8ddcb121338441d89bc292b6fed31c68)
+This visualization plot shows the Life expectancy of people in various parts of the world who had taken Diphtheria vaccination(DTP vaccination given for kids under 1 year) over a period of 15 years
 
 [![image](https://user-images.githubusercontent.com/54454914/65569243-dcf25400-df2a-11e9-845b-ca85085f541c.png)](https://beta.vizhub.com/aishwarya8615/e961019bd2244b8595c38b4cb0c47ceb)
 
+This scatter plot visualization using D3 and vega lite api. This visualization plot shows the Life expectancy of people in various parts of the world over a period of 15 years.
+
+These data helped me in creating my final visualizations.      
+
+## Final Visualizations
+My final project comprises of the following viuslizations:
 
 
 
 
 
 
-## Open Questions
 
-- I noticed a dip in the data at lower BMI and Diphtheria vaccination administration which makes me wonder the reason for this behaviour. Would there be other input parameters with such a behavior? Does it mean that the data is incorrect?
-- Area Plot appears differently with the mortatlity rates and life expectancy.Need to figure out the reason
 
 ## Schedule of Deliverables
 * Scatter Plot with Color Menu for Life Expectancy Data  - Due Date :  10/02/2019
