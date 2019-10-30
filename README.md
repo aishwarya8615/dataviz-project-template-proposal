@@ -1,6 +1,6 @@
 # Data Visualization Project - Life Expectancy Data
 
-This visualization project mainly aims to provide insights about the Life Expectancy and its related factors, of people belonging to various countries over a span of 15 years. Although there has been a lot of studies undertaken in the past on factors affecting life expectancy,I would like to use this visualization project to display the effect of immunization factors, mortality factors, economic factors, social factors and other health related factors on Life Expectancy, in a nutshell.
+This visualization project mainly aims at providing insights about the Life Expectancy and its related factors, of people belonging to various countries over a span of 15 years. Although there has been a lot of studies undertaken in the past on factors affecting life expectancy,I would like to use this visualization project as an opportunity to display the effect of immunization factors, mortality factors, economic factors, social factors and other health related factors on Life Expectancy, in a nutshell.
 
 ## Data
 
@@ -42,8 +42,7 @@ The above scatter plot can be used to understand Life expectancy over the span o
 This visualization plot shows the Life expectancy of people in various parts of the world who had taken Diphtheria vaccination(DTP vaccination given for kids under 1 year) over a period of 15 years
 
 [![image](https://user-images.githubusercontent.com/54454914/65569243-dcf25400-df2a-11e9-845b-ca85085f541c.png)](https://beta.vizhub.com/aishwarya8615/e961019bd2244b8595c38b4cb0c47ceb)
-
-This scatter plot visualization using D3 and vega lite api. This visualization plot shows the Life expectancy of people in various parts of the world over a period of 15 years.
+This scatter plot visualization uses D3 and vega lite api. This visualization plot shows the Life expectancy of people based on GDP in various parts of the world over a period of 15 years.
 
 These data helped me in creating my final visualizations.      
 
@@ -62,6 +61,8 @@ This bar chart takes required inputs from the data(like Alcohol Consumption, Lif
 * Visualization #3:
 [![image](https://user-images.githubusercontent.com/54454914/67837782-39b2d280-fac6-11e9-9a22-4f2cb76fea25.png)](https://beta.vizhub.com/aishwarya8615/80dd883f626a4f9ca7a1c7778f17dde9)
 As an enhancement to Visualization #1, I implemented the interactive color legend and updated the scatterplot eith informative tooltips.This scatter plot would help in finding the correlation between these various inputs using Continent as the color legend. Clicking on th color legend would display the data relevant to that continent. Hovering over the data would display all necessary information to summarize the visualized data in the form of Continent,Year, and the X and Y Axes values. 
+
+Through the visualizations, I was able to analyse and display how various factors affected Life expectancy worldwide.
 
 ## Schedule of Deliverables
 
