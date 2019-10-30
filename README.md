@@ -33,8 +33,7 @@ Sketch 2:
 Over the course of my class, I created many prototype visualizations exploring this data. 
 Initially, they comprised of a series of scatterplots and line chart with various input parameters like “Year”, “Diphtheria Vaccination” ,”Schooling” and so on versus the Life expectancy of various continents which gave a flavour of the correlation of each parameter. 
 
-Please find below a few of the visualizations:
-
+Please find below a few of the prototypes created:
 
 [![image](https://user-images.githubusercontent.com/54454914/65568969-a23bec00-df29-11e9-91d4-43f46d856ff9.png)](https://beta.vizhub.com/aishwarya8615/e92690e07721405ba299193059e66318)
 The above scatter plot can be used to understand Life expectancy over the span of 15 years and they are color coded for each continent.
@@ -49,36 +48,48 @@ This scatter plot visualization using D3 and vega lite api. This visualization p
 These data helped me in creating my final visualizations.      
 
 ## Final Visualizations
-My final project comprises of the following viuslizations:
 
+My final project comprises of the following visualizations:
+
+* Visualization #1:
 ![image](https://user-images.githubusercontent.com/54454914/67837333-323ef980-fac5-11e9-9763-4b3fb755c6c4.png)(https://beta.vizhub.com/aishwarya8615/9280287ff4d34683bfbf444502255067)
 My first step was to combine the above prototypes into a single visualization. For this, I used dropdown menu's that helps us to choose the required field's and updated the scatter plots accordingly.There is an additional menu dropdown for choosing color legend. 
 
+* Visualization #2:
 ![image](https://user-images.githubusercontent.com/54454914/67836699-ae384200-fac3-11e9-9745-399523af7450.png)(https://beta.vizhub.com/aishwarya8615/879dc1e7f9e4408fb551c7a9b91f0f9b)
 This bar chart takes required inputs from the data(like Alcohol Consumption, Life Expectancy and Year) and uses these as inputs to both X and Y axes with the help of an Interactive Color Legend using 'Year' as input. Here, aggregate of Alcohol Consumption is considered in X Axis and Life Expectancy in Y Axis. This scatter plot would help in determining the relationship between Alcohol Consumption and Life Expectancy in various continents. The tooltip provides a summary about the above mentioned correlation with respect to the year.
 
-
-
-
-
-
-
-
-
+* Visualization #3:
+![image](https://user-images.githubusercontent.com/54454914/67837782-39b2d280-fac6-11e9-9a22-4f2cb76fea25.png)(https://beta.vizhub.com/aishwarya8615/80dd883f626a4f9ca7a1c7778f17dde9)
+As an enhancement to Visualization #1, I implemented the interactive color legend and updated the scatterplot eith informative tooltips.This scatter plot would help in finding the correlation between these various inputs using Continent as the color legend. Clicking on th color legend would display the data relevant to that continent. Hovering over the data would display all necessary information to summarize the visualized data in the form of Continent,Year, and the X and Y Axes values. 
 
 ## Schedule of Deliverables
-* Scatter Plot with Color Menu for Life Expectancy Data  - Due Date :  10/02/2019
+
+* Scatter Plot with Color Menu for Life Expectancy Data  - Due Date :  10/02/2019 - Completed
     - The dropdown menu helps in choosing multiple input options and helps finding their correlation with each other.
-* Scatter Plot depicting Life expectancy and Healthcare expenditure for different continents  -  Due Date: 10/09/2019
+* Scatter Plot depicting Life expectancy and Healthcare expenditure for different continents  -  Due Date: 10/09/2019 - Completed
     - This scatter plot would help in finding the correlation between life expectancy and healthcare expenditure inturn helping countries to improve the life span.
-* Bar chart/Scatter Plot of Life Expectancy Vs Alcohol Consumption    - Due Date: 10/16/2019
+* Bar chart/Scatter Plot of Life Expectancy Vs Alcohol Consumption    - Due Date: 10/16/2019 - Completed
     - The positive/negative relationship of Alcohol consumption to life expectancy is determined.
- * Interactive Area/Line Chart of Infant and Adult mortality Vs Life Expectancy over 15 years. -  Due Date: 10/30/2019
+ * Interactive Plot of Infant and Adult mortality Vs Life Expectancy over 15 years. -  Due Date: 10/23/2019 - Completed
      - Interactive chart, highlighting the input category on mouse hover.
      
 ## Future Scope
-* Bivariate Choropleth map with interactive filtering  - Due Date: 10/23/2019
+
+* Bivariate Choropleth map with interactive filtering 
     - This interactive map helps in analyzing whether the densely populated countries have lower life expectancy or not.
     - Color coding denotes the different populated areas(densely populated areas have darker shades than less densely populated ones).Should be able to select the country on mouse click.
     - Mouse hover displays country name, population and life expectancy.
  *  Combining the Map and a histogram-dynamically changing the Life Expectancy based on the countries chosen.
+ 
+ ## Visualization Tools & Platform
+ 
+ *Vega Lite API
+ * D3
+ *React
+ *All coding was done on VizHub
+ 
+ ## References
+ 
+ * Visualization Analysis & Design by Tamara Munzner (2014)
+ * Videos and articles provided by Prof. Curran Kelleher
