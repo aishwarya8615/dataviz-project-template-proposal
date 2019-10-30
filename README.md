@@ -42,7 +42,7 @@ The above scatter plot can be used to understand Life expectancy over the span o
 This visualization plot shows the Life expectancy of people in various parts of the world who had taken Diphtheria vaccination(DTP vaccination given for kids under 1 year) over a period of 15 years
 
 [![image](https://user-images.githubusercontent.com/54454914/65569243-dcf25400-df2a-11e9-845b-ca85085f541c.png)](https://beta.vizhub.com/aishwarya8615/e961019bd2244b8595c38b4cb0c47ceb)
-This scatter plot visualization uses D3 and vega lite api. This visualization plot shows the Life expectancy of people based on GDP in various parts of the world over a period of 15 years.
+This line plot visualization uses vega lite api. This visualization plot shows the Life expectancy of people with respect to GDP in various parts of the world over a period of 15 years.
 
 These data helped me in creating my final visualizations.      
 
