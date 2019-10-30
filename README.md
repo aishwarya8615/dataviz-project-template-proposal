@@ -51,10 +51,13 @@ These data helped me in creating my final visualizations.
 ## Final Visualizations
 My final project comprises of the following viuslizations:
 
-My first step was to combine the above prototypes into a single visualization. For this, I used  dropdown menu's that helps us to choose the required field's and updates the scatter plots accordingly.
+![image](https://user-images.githubusercontent.com/54454914/67837333-323ef980-fac5-11e9-9763-4b3fb755c6c4.png)(https://beta.vizhub.com/aishwarya8615/9280287ff4d34683bfbf444502255067)
+My first step was to combine the above prototypes into a single visualization. For this, I used dropdown menu's that helps us to choose the required field's and updated the scatter plots accordingly.There is an additional menu dropdown for choosing color legend. 
 
 ![image](https://user-images.githubusercontent.com/54454914/67836699-ae384200-fac3-11e9-9745-399523af7450.png)(https://beta.vizhub.com/aishwarya8615/879dc1e7f9e4408fb551c7a9b91f0f9b)
 This bar chart takes required inputs from the data(like Alcohol Consumption, Life Expectancy and Year) and uses these as inputs to both X and Y axes with the help of an Interactive Color Legend using 'Year' as input. Here, aggregate of Alcohol Consumption is considered in X Axis and Life Expectancy in Y Axis. This scatter plot would help in determining the relationship between Alcohol Consumption and Life Expectancy in various continents. The tooltip provides a summary about the above mentioned correlation with respect to the year.
+
+
 
 
 
