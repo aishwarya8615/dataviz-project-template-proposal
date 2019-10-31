@@ -20,6 +20,7 @@ After analysing the data, I came up with the following tasks and questions which
 ## Sketches
 
 The above tasks helped me to come up with a few sketches that assisted me in making the final visualizations.
+
 Sketch 1:
 
 ![image](https://user-images.githubusercontent.com/54454914/65569319-2347b300-df2b-11e9-9d86-0f2fe75cda81.png)
@@ -61,7 +62,7 @@ This bar chart takes required inputs from the data(like Alcohol Consumption, Lif
 
 * Visualization #3:
 [![image](https://user-images.githubusercontent.com/54454914/67837782-39b2d280-fac6-11e9-9a22-4f2cb76fea25.png)](https://beta.vizhub.com/aishwarya8615/80dd883f626a4f9ca7a1c7778f17dde9)
-As an enhancement to Visualization #1, I implemented the interactive color legend and updated the scatterplot eith informative tooltips.This scatter plot would help in finding the correlation between these various inputs using Continent as the color legend. Clicking on th color legend would display the data relevant to that continent. Hovering over the data would display all necessary information to summarize the visualized data in the form of Continent,Year, and the X and Y Axes values. 
+As an enhancement to Visualization #1, I implemented the interactive color legend and updated the scatterplot eith informative tooltips.This scatter plot would help in finding the correlation between these various inputs using Continent as the color legend. Clicking on the color legend would display the data relevant to that continent. Hovering over the data would display all necessary information to summarize the visualized data in the form of Continent,Year, and the X and Y Axes values. 
 
 Through the visualizations, I was able to analyse and display how various factors affected Life expectancy worldwide.
 
