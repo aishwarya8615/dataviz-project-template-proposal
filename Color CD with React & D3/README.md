@@ -1,0 +1,1 @@
+Data Source: [CSS named Colors](https://gist.githubusercontent.com/curran/b236990081a24761f7000567094914e0/raw/cssNamedColors.csv) . This data is used to create a multicolored CD using React and D3.                                                                                     
