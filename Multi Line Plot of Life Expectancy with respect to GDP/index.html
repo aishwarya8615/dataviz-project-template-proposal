@@ -1,0 +1,57 @@
+<html>
+  <head>
+    <title>Multi Line Plot of Life Expectancy with respect to GDP</title>
+    <script src="https://unpkg.com/d3@4.11.0/build/d3.min.js"></script>
+    <script src="https://unpkg.com/jquery@3.2.1/dist/jquery.min.js"></script>
+    <script src="https://unpkg.com/metrics-graphics@2.11.0/dist/metricsgraphics.min.js"></script>
+    <link href="https://unpkg.com/metrics-graphics@2.11.0/dist/metricsgraphics.css" rel="stylesheet" type="text/css">
+    <title>Line Plot of Life Expectancy Data_GDPVsLifeExpectancy</title>
+    <style>
+      body {
+        margin: 0px;
+      }
+    </style>
+  </head>
+  <body>
+    <script>
+      
+      // Use a modified SI formatter that uses "B" for Billion.
+      var siFormat = d3.format('.2s');
+      var customTickFormat = function (d){
+        return siFormat(d).replace('G', 'B');
+      };
+      
+      var parseYear = d3.timeParse('%Y');
+      function row (d) {
+        d.date = parseYear(d.Year);
+        d['Life_expectancy '] = +d['Life_expectancy '];
+        return d;
+      }
+      d3.csv('https://gist.githubusercontent.com/aishwarya8615/89d9f36fc014dea62487f7347864d16a/raw/Life_Expectancy_Data.csv', row, function(data) {
+        var nested = d3.nest()
+          .key(function(d) { return d.Year; })
+          .entries(data);
+
+        var legend = nested.map(function(d) { return d.key; });
+
+        var arrayOfArrays = nested.map(function(d) { return d.values; });
+
+        MG.data_graphic({
+          data: arrayOfArrays,
+          width: window.innerWidth,
+          height: window.innerHeight,
+          right: 180,
+          top: 20,
+          target: 'body',
+          legend: legend,
+          x_accessor: 'GDP',
+          y_accessor: 'Life_expectancy ',
+          yax_count: 10,
+          yax_format: customTickFormat,
+          y_extended_ticks: true,
+          colors: d3.schemeCategory10
+        });
+      });
+    </script>
+  </body>
+</html>
